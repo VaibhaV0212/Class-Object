@@ -10,7 +10,7 @@ class Duck():
 
 class Human():
     def talk(self):
-        print('Hi, hello pagal')
+        print('Hi, hello!')
 
 def call_talk(obj):
     obj.talk()
